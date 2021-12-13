@@ -25,7 +25,7 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 | 2 | [Software Engineer - D2](Developer.md#d2---developer-2) | | |
 | 3 | [Sr. Software Engineer - D3](Developer.md#d3---developer-3) | | |
 | 4 | [Principal Software Engineer - D4](Developer.md#d4---developer-4) | [Staff Technical Lead - TL5](TechLead.md#tl4---tech-lead-4) | [ Technical Project Manager TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
-| 5 | [Sr. Principal Software Engineer - D5](Developer.md#d5---developer-5) | [Principal Techical Lead - TL5](TechLead.md#tl5---tech-lead-5) | [Sr TPM - TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [Engineering Manager EM5](EngineeringManager.md#em5---engineering-manager-5) |
+| 5 | [Sr. Principal Software Engineer - D5](Developer.md#d5---developer-5) | [Principal Technical Lead - TL5](TechLead.md#tl5---tech-lead-5) | [Sr TPM - TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [Engineering Manager EM5](EngineeringManager.md#em5---engineering-manager-5) |
 | 6 | [Architect - D6](Developer.md#d6---developer-6) | [Architect - TL6](TechLead.md#tl6---tech-lead-6) | [Staff TPM - TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [Sr Engineering Manager - EM6](EngineeringManager.md#em6---engineering-manager-6) |
 | 7 | [Sr. Architect - D7](Developer.md#d7---developer-7) | [Sr. Architect - TL7](TechLead.md#tl7---tech-lead-7) | [Principal TPM - TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [Engineering Director - EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
