@@ -7,10 +7,10 @@ Role also known as programmer or software engineer, requires a deep level of tec
 | 1 | [D1 - Intern](#d1---intern) |
 | 2 | [D2 - Software Engineer](#d2---software-engineer) |
 | 3 | [D3 - Sr. Software Engineer](#d3---sr.-software-engineer) |
-| 4 | [D4 - Staff Software Engineer](#d4---staff-software-engineer) |
-| 5 | [D5 - Principal Software Engineer](#d5---principal-software-engineer) |
-| 6 | [D6 - Sr. Principal Software Engineer](#d6---sr.-principal-software-engineer) |
-| 7 | [D7 - Architect](#d7---architect-7) |
+| 4 | [D4 - Principal Software Engineer](#d4---principal-software-engineer) |
+| 5 | [D5 - Sr. Principal Software Engineer](#d5---sr.-principal-software-engineer) |
+| 6 | [D6 - Architect](#d6---sr.-architect) |
+| 7 | [D7 - Sr. Architect](#d7---sr.-architect) |
 
 ## D1 - Intern
 
@@ -42,9 +42,9 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D4 - Staff Software Engineer
+## D4 - Principal Software Engineer
 
-![Staff Software Engineer 4](/charts/developer-4.png)
+![Principal Software Engineer 4](/charts/developer-4.png)
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
@@ -52,9 +52,9 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D5 - Principal Software Engineer
+## D5 - Sr. Principal Software Engineer
 
-![Principal Software Engineer](/charts/developer-5.png)
+![Sr. Principal Software Engineer](/charts/developer-5.png)
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
@@ -62,9 +62,9 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## D6 - Sr. Principal Software Engineer
+## D6 - Architect
 
-![Sr. Principal Software Engineer](/charts/developer-6.png)
+![Architect](/charts/developer-6.png)
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
@@ -72,9 +72,9 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Company**: makes an impact on the whole tech organization
 
-## D7 - Architect
+## D7 - Sr. Architect
 
-![Architect](/charts/developer-7.png)
+![Sr. Architect](/charts/developer-7.png)
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
